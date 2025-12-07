@@ -110,10 +110,8 @@ mov word [es:di], (color << 8) + character
 📁 SpaceShooter/
 │── SpaceShooter.asm      # Complete game source
 │── README.md             # HTML-based README
-│── assets/               # Screenshots, banner
 │── demo.mp4              # Gameplay demo
-│── build/
-│   └── SpaceShooter.com  # Compiled executable
+│── exp.com  # Compiled executable
 </pre>
 
 <hr>
